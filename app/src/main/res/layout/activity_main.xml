@@ -98,7 +98,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Upload Image"
+            android:text="Upload"
             android:backgroundTint="#FF9800"
             android:textColor="#FFFFFF"
             android:textStyle="bold" />
@@ -112,7 +112,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Take Picture"
+            android:text="Picture"
             android:backgroundTint="#2196F3"
             android:textColor="#FFFFFF"
             android:textStyle="bold" />
